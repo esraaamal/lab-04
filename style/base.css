@@ -1,0 +1,20 @@
+body{
+    background-color: ivory;
+    width: 960px;
+    height: 750px;
+    /* vertical-align: center; */
+    display: inline-flex;
+    /* justify-content:flex-end; */
+/* flex-flow: row-reverse wrap;   */
+/* align-items: center;   */
+
+    
+
+}
+
+
+*{
+    box-sizing: border-box;
+    border: 1px solid black;
+
+}
